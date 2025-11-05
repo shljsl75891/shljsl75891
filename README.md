@@ -1,16 +1,60 @@
 ## Hi there 👋
 
-<!--
-**shljsl75891/shljsl75891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # Hey, I'm Sahil Jassal 👋
 
-Here are some ideas to get you started:
+  **Full-Stack Engineer** | AWS Certified | Open to opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ---
+
+  ## 🎯 What I Do
+
+  Currently working [Sourcefuse](https://www.sourcefuse.com/)
+
+  ---
+
+  ## 🛠️ Tech Stack
+
+  **Languages:** TypeScript, JavaScript, SQL, Python, Bash
+  **Backend:** Node.js 20, LoopBack 4, Express.js, NestJS
+  **Frontend:** Angular 17 (Signals), React, RxJS 7, Material-UI, Tailwind CSS
+  **Databases:** PostgreSQL, MongoDB, MySQL, Redis, OpenSearch
+  **Cloud & DevOps:** AWS (Certified), Docker, Kubernetes, Jenkins, CI/CD
+  **Messaging:** Camunda BPMN, Apache Kafka, AWS SQS, WebSocket
+  **Testing:** TDD, Jasmine, Karma, Playwright, Jest, Mocha, Sinon
+  **Tools:** Neovim, Linux (Window Managers), GNU Core Utils, jq, Git, tmux
+
+  ---
+
+  ## 📜 Certifications
+
+  🏆 **AWS Certified Developer - Associate**
+
+  ---
+
+  ## 📊 GitHub Stats
+
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sf-sahil-jassal&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sf-sahil-jassal&layout=compact&theme=radical&hide_border=true)
+
+  ---
+
+  ---
+
+  ## 🌱 Currently Learning
+
+  - Advanced system design patterns
+  - Advanced Data Structures and Algorithms
+
+  ---
+
+  ## 📫 Let's Connect
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahiljassaljca/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shljsl75891@gmail.com)
+
+  ---
+
+  💡 **Fun Fact:** I use Neovim + Linux with window managers for maximum productivity!
+  ⚡ **Power User:** GNU Core Utils, jq, bash scripting enthusiast
+  🎯 **Philosophy:** Write code that scales, test what matters, automate everything
+
