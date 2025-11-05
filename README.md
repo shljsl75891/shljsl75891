@@ -31,14 +31,6 @@
 
   ---
 
-  ## 📊 GitHub Stats
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sf-sahil-jassal&layout=compact&theme=radical&hide_border=true)
-
-  ---
-
-  ---
-
   ## 🌱 Currently Learning
 
   - Advanced system design patterns
