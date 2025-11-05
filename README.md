@@ -14,14 +14,14 @@
 
   ## 🛠️ Tech Stack
 
-- **Languages:** TypeScript, JavaScript, Lua, C++, SQL, Bash
-- **Backend:** Node.js 20, LoopBack 4, Express.js, NestJS
-- **Frontend:** Angular 17 (Signals), React, RxJS 7, Material-UI, Tailwind CSS
-- **Databases:** PostgreSQL, MongoDB, MySQL, Redis, OpenSearch
-- **Cloud & DevOps:** AWS (Certified), Docker, Kubernetes, Jenkins, CI/CD
-- **Messaging:** Camunda BPMN, Apache Kafka, AWS SQS, WebSocket
-- **Testing:** TDD, Jasmine, Karma, Playwright, Jest, Mocha, Sinon
-- **Tools:** Neovim, Linux (Window Managers), GNU Core Utils, jq, Git, tmux
+  - **Languages:** TypeScript, JavaScript, Lua, C++, SQL, Bash
+  - **Backend:** Node.js 20, LoopBack 4, Express.js, NestJS
+  - **Frontend:** Angular 17 (Signals), React, RxJS 7, Material-UI, Tailwind CSS
+  - **Databases:** PostgreSQL, MongoDB, MySQL, Redis, OpenSearch
+  - **Cloud & DevOps:** AWS (Certified), Docker, Kubernetes, Jenkins, CI/CD
+  - **Messaging:** Camunda BPMN, Apache Kafka, AWS SQS, WebSocket
+  - **Testing:** TDD, Jasmine, Karma, Playwright, Jest, Mocha, Sinon
+  - **Tools:** Neovim, Linux (Window Managers), GNU Core Utils, jq, Git, tmux
 
   ---
 
