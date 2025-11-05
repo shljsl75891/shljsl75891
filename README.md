@@ -14,7 +14,7 @@
 
   ## 🛠️ Tech Stack
 
-- **Languages:** TypeScript, JavaScript, SQL, Python, Bash
+- **Languages:** TypeScript, JavaScript, Lua, C++, SQL, Bash
 - **Backend:** Node.js 20, LoopBack 4, Express.js, NestJS
 - **Frontend:** Angular 17 (Signals), React, RxJS 7, Material-UI, Tailwind CSS
 - **Databases:** PostgreSQL, MongoDB, MySQL, Redis, OpenSearch
