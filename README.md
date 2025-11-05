@@ -8,7 +8,7 @@
 
   ## 🎯 What I Do
 
-  Currently working [Sourcefuse](https://www.sourcefuse.com/)
+  Currently working at [Sourcefuse](https://www.sourcefuse.com/)
 
   ---
 
