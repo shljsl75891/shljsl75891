@@ -33,7 +33,6 @@
 
   ## 📊 GitHub Stats
 
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sf-sahil-jassal&show_icons=true&theme=radical&hide_border=true&count_private=true)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sf-sahil-jassal&layout=compact&theme=radical&hide_border=true)
 
   ---
@@ -54,7 +53,7 @@
 
   ---
 
-  💡 **Fun Fact:** I use Neovim + Linux with window managers for maximum productivity!
-  ⚡ **Power User:** GNU Core Utils, jq, bash scripting enthusiast
-  🎯 **Philosophy:** Write code that scales, test what matters, automate everything
+  - 💡 **Fun Fact:** I use Neovim + Linux with window managers for maximum productivity!
+  - ⚡ **Power User:** GNU Core Utils, jq, bash scripting enthusiast
+  - 🎯 **Philosophy:** Write code that scales, test what matters, automate everything
 
