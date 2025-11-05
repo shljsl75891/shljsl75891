@@ -12,13 +12,13 @@ Currently working at [Sourcefuse](https://www.sourcefuse.com/)
 
 ## 🛠️ Tech Stack
 
-- **Languages:** TypeScript, JavaScript, Lua, C++, SQL, Bash
-- **Backend:** Node.js 20, LoopBack 4, Express.js, NestJS
-- **Frontend:** Angular 17 (Signals), React, RxJS 7, Material-UI, Tailwind CSS
-- **Databases:** PostgreSQL, MongoDB, MySQL, Redis, OpenSearch
+- **Languages:** TypeScript, JavaScript, Lua, C++, SQL
+- **Backend:** Node.js 22, LoopBack 4, Express.js
+- **Frontend:** Angular 20, React, RxJS 7, Material-UI, Tailwind CSS
+- **Databases:** PostgreSQL, MongoDB, MySQL, Redis
 - **Cloud & DevOps:** AWS (Certified), Docker, Kubernetes, Jenkins, CI/CD
 - **Messaging:** Camunda BPMN, Apache Kafka, AWS SQS, WebSocket
-- **Testing:** TDD, Jasmine, Karma, Playwright, Jest, Mocha, Sinon
+- **Testing:** Test Driven Development, Jasmine, Karma, Playwright, Jest, Mocha, Sinon
 - **Tools:** Neovim, Linux (Window Managers), GNU Core Utils, jq, Git, tmux
 
 ---
